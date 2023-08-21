@@ -1,2 +1,2 @@
-# Projeto-DIO-SQL
+# Projeto DIO SQL
 Projeto dio em SQL
