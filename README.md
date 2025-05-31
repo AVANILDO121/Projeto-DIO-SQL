@@ -1,2 +1,2 @@
 # Projeto DIO SQL
-Projeto dio em SQL
+Projeto dio em MySQL
